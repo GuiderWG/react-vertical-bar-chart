@@ -11,6 +11,10 @@
   width: 100%;
   margin-bottom: 20px;
   padding: 20px;
-
 }
 
+.barItem {
+  width: 100%;
+  background: #468EC1;
+  margin: 0 10px;
+}
